@@ -9,7 +9,7 @@ import { useCryptoStore } from "@/stores/crypto"
 import { useI18n } from "vue-i18n"
 
 useMeta({
-  title: "Cryptoleet",
+  title: "Chlen",
   description: "Dashboard",
 })
 

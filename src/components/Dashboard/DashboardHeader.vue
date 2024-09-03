@@ -67,7 +67,7 @@ watch(currentRouteName, () => {
               />
             </g>
           </svg>
-          <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Cryptoleet</span>
+          <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Chlen</span>
         </div>
         <div class="flex items-center xs:order-4 md:none">
           <button
